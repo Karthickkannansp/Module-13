@@ -21,8 +21,8 @@ To write a Python program to implement a stack using a list and its built-in met
 ### PROGRAM
 
 ```
-Reg.No: 212222060025
-Name: Bharath S
+Reg.No: 212222060114
+Name: Karthick Kannan SP
 
 stack = []
 for i in range(7):
