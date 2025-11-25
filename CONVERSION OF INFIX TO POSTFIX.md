@@ -24,8 +24,8 @@ To write a Python program to convert a given Infix expression to Postfix express
 ### PROGRAM
 
 ```
-Reg.No:212222060025
-Name: Bharath S
+Reg.No:212222060114
+Name: Karthick Kannan SP
 
 Operators = set(['%','','|','(',')'])
 priority = {'|':1,'%':2,'':2}
